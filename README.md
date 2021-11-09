@@ -1,2 +1,1 @@
-# Tindog
-Dog Tinder
+TinDog Starting Files
